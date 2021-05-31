@@ -1,17 +1,16 @@
 ﻿/*
 * plus.grid plugin (extended from plus.list)
-* http://asanwazifa.com
+* http://generic.af
 * 
 * requires jQuery.js v2.1.3 or higher http://jquery.com/
 * tested with jQuery v2.1.3
 *
-* Copyright 2015 Khawarsoft business and trade limited liability corporation
-* Released under the Khawarsoft Co API license
-* http://api.asanwazifa.com/license
+* Copyright 2015 Generic.af business and trade limited liability corporation
+* Released under the Generic.af Co API license
 *
 * Date: 2015-06-16 10:07:26 GMT+0430 (Afghanistan Standard Time)
 * 
-* @author: mushfiqullah.akhundzada@gmail.com, reza.khawar@gmail.com
+* @author: mushfiqullah.akhundzada@gmail.com
 * 
 **/
 var plus = window.plus = window.plus || {};

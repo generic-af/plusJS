@@ -1,17 +1,16 @@
 ﻿/*
 * plus.treegrid plugin
-* http://Khawarsoft.com
+* http://Generic.af
 * 
 * requires jQuery.js v2.1.3 or higher http://jquery.com/
 * tested with jQuery v2.1.3
 *
-* Copyright 2015 Khawarsoft 
-* Released under the Khawarsoft Co API license
-* http://api.Khawarsoft.com/license
+* Copyright 2015 Generic.af
+* Released under the Generic.af Co API license
 *
 * Date: 2015-06-02 23:31:16 GMT+0430 (Afghanistan Standard Time)
 * 
-* @author: mushfiqullah.akhundzada@gmail.com, reza.khawar@gmail.com
+* @author: mushfiqullah.akhundzada@gmail.com
 * 
 
     <treegrid async="true" id="dvFMS_dbo_spGetBudgetDetail" commandType="sp" >
